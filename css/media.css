@@ -11,6 +11,10 @@
         gap:5px;
        
     }
+    .career-inner-section h1{
+    font-size: 28px;
+    font-weight: 600;
+}
 }
 
 @media (min-width: 1400px) {
