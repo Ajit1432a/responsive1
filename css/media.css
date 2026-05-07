@@ -22,6 +22,9 @@
     .career-inner-section p br{
         display: none;
     }
+    .career-inner-section ul{
+        margin-top:-20px;
+    }
 
     .career-inner-section ul li{
     list-style-type: none;
