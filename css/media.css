@@ -17,14 +17,13 @@
     }
     .career-inner-section p{
         font-size: 14px;
+        margin-bottom: 5px;
         
     }
     .career-inner-section p br{
         display: none;
     }
-    .career-inner-section ul{
-        margin-top:-20px;
-    }
+    
 
     .career-inner-section ul li{
     list-style-type: none;
