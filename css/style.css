@@ -52,3 +52,21 @@
 .career-inner-section ul li i{
     color:#2699FB;
 }
+.career-inner-section-btn button{
+    width:48%;
+    
+}
+.career-inner-section-btn button:first-child{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    border:none;
+}
+.career-inner-section-btn button:last-child{
+    font-size: 18px;
+    font-weight: 500;
+    color:#0A2134;
+    border:1px solid #D0D5DD;
+    
+}
