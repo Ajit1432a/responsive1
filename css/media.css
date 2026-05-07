@@ -23,6 +23,13 @@
         display: none;
     }
 
+    .career-inner-section ul li{
+    list-style-type: none;
+    font-size:14px;
+    font-weight: 400;
+
+}
+
 }
 
 @media (min-width: 1400px) {
